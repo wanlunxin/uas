@@ -19,7 +19,7 @@ if (isset($_POST['action'])) {
 
 		$query = mysqli_query($koneksi, "INSERT INTO toko (kode_barang, nama_barang, tanggal_masuk, jumlah, harga_awal, harga_jual) VALUES ('$kode_barang', '$nama_barang', '$tanggal_masuk', '$jumlah', '$harga_awal', '$harga_jual')");
 		if (mysqli_affected_rows($koneksi)) {
-			header('Location: /uas/barang.php');
+			header('Location: barang.php');
 		} else {
 			echo "Rekam data barang gagal";
 		}
@@ -137,7 +137,7 @@ if (isset($_POST['action'])) {
 
 		$query = mysqli_query($koneksi, "UPDATE toko SET kode_barang = '$kode_barang', nama_barang = '$nama_barang', jumlah = '$jumlah', harga_awal = '$harga_awal', harga_jual = '$harga_jual' WHERE id = '$id'");
 		if (mysqli_affected_rows($koneksi)) {
-			header('Location: /uas/barang.php');
+			header('Location: barang.php');
 		}
 	}
 }
@@ -147,7 +147,7 @@ if (isset($_GET['action'])) {
 		$id = $_GET['id'];
 		$query = mysqli_query($koneksi, "DELETE FROM toko WHERE id = '$id'");
 		if (mysqli_affected_rows($koneksi)) {
-			header('Location: /uas/barang.php');
+			header('Location: barang.php');
 		}
 	}
 }
