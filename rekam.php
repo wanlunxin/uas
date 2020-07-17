@@ -34,7 +34,7 @@
                             <a class="nav-link" href="transaksi.php">TRANSAKSI</a>
                         </li>
                     </ul>
-                    <span class="navbar-text"><a href="https://github.com/wanlunxin/uas.git" target="_blank"><img src="images/github-filled.svg"></a></span>
+                    <span class="navbar-text"><a href="https://github.com/wanlunxin/uas" target="_blank"><img src="images/github-filled.svg"></a></span>
                 </div>
             </nav>
         </header>

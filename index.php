@@ -33,7 +33,7 @@
                             <a class="nav-link" href="transaksi.php">TRANSAKSI</a>
                         </li>
                     </ul>
-                    <span class="navbar-text"><a href="https://github.com/wanlunxin/uas.git" target="_blank"><img src="images/github-filled.svg"></a></span>
+                    <span class="navbar-text"><a href="https://github.com/wanlunxin/uas" target="_blank"><img src="images/github-filled.svg"></a></span>
                 </div>
             </nav>
         </header>
@@ -45,7 +45,7 @@
                         <h1 class="display-4">UAS</h1>
                         <p class="lead">Web aplikasi ini dibuat dalam rangka memenuhi tugas UAS Semester 2. <br>Aplikasi ini adalah implementasi CRUD (Create, Read, Update, Delete) menggunakan PHP dan MySQLi.</p>
                         <p class="lead">Beberapa libraries CSS dan JavaScript yang digunakan: <a href="https://jquery.com/" target="_blank">jQuery</a>, <a href="https://getbootstrap.com/" target="_blank">Bootstrap 4</a>, <a href="https://datatables.net/" target="_blank">Datatables</a>, <a href="https://igorescobar.github.io/jQuery-Mask-Plugin/" target="_blank">jQuery Mask</a>.<br>Dataset transkasi penjualan diambil dari <a href="https://www.kaggle.com/" target="_blank"><b>kaggle</b></a> <a href="https://www.kaggle.com/jr2ngb/superstore-data" target="_blank">superstore_data</a>.</p>
-                        <p class="lead">Source code bisa didownload di <a href="https://github.com/wanlunxin/uas.git" target="_blank">GitHub</a></p>
+                        <p class="lead">Source code bisa didownload di <a href="https://github.com/wanlunxin/uas" target="_blank">GitHub</a></p>
                     </div>
                     <!-- <div class="container">
                         <div class="card-deck mb-3 text-center">
