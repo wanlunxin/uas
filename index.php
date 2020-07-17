@@ -47,37 +47,6 @@
                         <p class="lead">Beberapa libraries CSS dan JavaScript yang digunakan: <a href="https://jquery.com/" target="_blank">jQuery</a>, <a href="https://getbootstrap.com/" target="_blank">Bootstrap 4</a>, <a href="https://datatables.net/" target="_blank">Datatables</a>, <a href="https://igorescobar.github.io/jQuery-Mask-Plugin/" target="_blank">jQuery Mask</a>.<br>Dataset transkasi penjualan diambil dari <a href="https://www.kaggle.com/" target="_blank"><b>kaggle</b></a> <a href="https://www.kaggle.com/jr2ngb/superstore-data" target="_blank">superstore_data</a>.</p>
                         <p class="lead">Source code bisa didownload di <a href="https://github.com/wanlunxin/uas" target="_blank">GitHub</a></p>
                     </div>
-                    <!-- <div class="container">
-                        <div class="card-deck mb-3 text-center">
-                            <div class="card mb-4 shadow-sm">
-                                <div class="card-header">
-                                    <h4 class="my-0 font-weight-normal">DATA BARANG</h4>
-                                </div>
-                                <div class="card-body">
-                                    <p class="card-text">Data kode, nama, tanggal masuk, jumlah dan harga beli barang.</p>
-                                    <a href="barang.php" class="btn btn-primary">Lihat data barang</a>
-                                </div>
-                            </div>
-                            <div class="card mb-4 shadow-sm">
-                                <div class="card-header">
-                                    <h4 class="my-0 font-weight-normal">DATA TRANSAKSI</h4>
-                                </div>
-                                <div class="card-body">
-                                    <p class="card-text">Data kode, nama, jumlah, harga beli dan harga jual barang.</p>
-                                <a href="transaksi.php" class="btn btn-primary">Lihat data transaksi</a>
-                                </div>
-                            </div>
-                            <div class="card mb-4 shadow-sm">
-                                <div class="card-header">
-                                    <h4 class="my-0 font-weight-normal">REKAM BARANG</h4>
-                                </div>
-                                <div class="card-body">
-                                    <p class="card-text">Tambah data barang baru.</p>
-                                    <a href="rekam.php" class="btn btn-primary">Tambah data barang</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
                 </div>
                 
             </main>

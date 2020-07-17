@@ -115,30 +115,6 @@
         <script>
             $(document).ready(function() {
                 $('input[name="tanggal_masuk"]').mask('00/00/0000');
-
-                $('#example').DataTable({
-                    "lengthMenu": [[5, 10, 25, 50, -1], [5, 10, 25, 50, "All"]],
-                    "pageLength": 5,
-                    "responsive": true,
-                    "columnDefs": [
-                        {
-                            "targets": 7,
-                            // "data": null,
-                            "defaultContent": null,
-                            "orderable": false,
-                            "width": "120",
-                            "autoWidth": false,
-                            render: function(data, type, row, meta) {
-                                return type === 'display' ?
-                                '<a type="button" class="btn btn-success btn-sm detail" href="edit.php?action=edit&id='+ row[7] +'">Ubah</a> <a type="button" class="btn btn-danger btn-sm hapus" href="edit.php?action=edit&id='+ row[7] +'">Hapus</a>' :
-                                data;
-                            }
-                        },
-                        {
-                            "className": "dt-center", "targets": [7]
-                        },
-                    ]
-                });
             } );
         </script>
     </body>
