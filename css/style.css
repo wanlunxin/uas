@@ -1,0 +1,60 @@
+#hapus a, #edit a {
+	text-decoration: none;
+	color: #ffff;
+}
+.dt-center {
+	text-align: center !important;
+}
+.navbar-brand img, .navbar-text img {
+	width: 1.6rem;
+}
+
+.bd-callout-warning {
+    border-left-color: #f0ad4e !important;
+}
+
+.bd-callout {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+    display: inline-block;
+}
+
+.dt-buttons {
+	margin-bottom: 20px;
+}
+
+.btnx {
+    padding: 1px 1px 2px 1px !important;
+}
+.btnx img {
+    font-size: 1.2rem !important;
+}
+
+.dt-button img {
+    width: 1rem;
+}
+
+table.dataTable.no-footer {
+    border-bottom: 2px solid #dee2e6;
+}
+
+div.dataTables_wrapper div.dataTables_info, div.dataTables_wrapper div.dataTables_paginate {
+    display: inline-block;
+    /*margin-top: 15px !important;*/
+}
+
+div.dataTables_wrapper div.dataTables_info {
+    padding-top: 0.4em !important;
+}
+
+div.dataTables_wrapper div.dataTables_paginate {
+    float: right;
+}
+
+.dt-button {
+    padding: 3px 5px !important;
+}

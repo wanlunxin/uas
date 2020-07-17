@@ -1,0 +1,25 @@
+{
+    "decimal":        "",
+    "emptyTable":     "No data available in table",
+    "info":           "Data _START_ - _END_ / _TOTAL_",
+    "infoEmpty":      "Showing 0 to 0 of 0 entries",
+    "infoFiltered":   "(filtered from _MAX_ total entries)",
+    "infoPostFix":    "",
+    "thousands":      ",",
+    "lengthMenu":     "_MENU_",
+    "loadingRecords": "Loading...",
+    "processing":     "Processing...",
+    "search":         "Cari",
+    "searchPlaceholder": "Nama Barang",
+    "zeroRecords":    "No matching records found",
+    "paginate": {
+        "first":      "&#8676;",
+        "last":       "&#8677;",
+        "next":       "&#8608;",
+        "previous":   "&#8606;"
+    },
+    "aria": {
+        "sortAscending":  ": activate to sort column ascending",
+        "sortDescending": ": activate to sort column descending"
+    }
+}
